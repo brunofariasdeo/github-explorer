@@ -1,0 +1,45 @@
+.finder-container {
+  margin-top: 55px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.finder-content {
+  background-color: #e6f7ff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding-top: 55px;
+  padding-left: 110px;
+  padding-bottom: 50px;
+}
+
+.finder-text-title {
+  font-size: 38px;
+  line-height: 46px;
+}
+
+.finder-form {
+  width: 670px;
+  height: 40px;
+  margin-top: 15px;
+  margin-bottom: 32px;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding-left: 10px;
+}
+
+.finder-user-not-found {
+  margin-top: 55px;
+  padding-left: 200px;
+  padding-right: 90px;
+  font-size: 38px;
+  line-height: 46px;
+}
+
+.finder-loader {
+  display: flex;
+  padding-left: 90px;
+  padding-top: 50px;
+}
